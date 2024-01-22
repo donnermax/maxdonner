@@ -1,2 +1,2 @@
 # maxdonner
-Max Donner web dev portfolio
+Max Donner Portfolio
